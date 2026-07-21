@@ -5,9 +5,7 @@
 def say_hello():
     # тіло функції
     print('Привіт, Світ!')
-
-
-say_hello()
+    
 say_hello()
 
 

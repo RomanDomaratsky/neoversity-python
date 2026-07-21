@@ -3,10 +3,10 @@
 
 # Складна умова з and: усі частини мають бути True
 name = "Taras"
-age = 22
+age = 17
 has_driver_licence = True
 if name and age >= 18 and has_driver_licence:
-    print(f"User {name} can rent a car")
+    print(f"User {name} can NOT rent a car")
 
 # Оператор and (і) - True тільки якщо обидва операнди True
 a = True and False  # False
